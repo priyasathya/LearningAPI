@@ -1,0 +1,22 @@
+{
+  "posts": [
+    { "id": 1, 
+	"title": "json-server", 
+	 "author": "typicode" ,
+	 "info" :[
+	 {
+	 "email " :"xyz@gmail.com",
+	 "phone" : "123456",
+	 "address" : "address -line"
+	 },
+	 {
+	 "email " :"jkl@gmail.com",
+	 "phone" : "321456",
+	 "address" : "address12-line"
+	 
+	 }
+	 
+  ]
+ }
+ ]
+}
